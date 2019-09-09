@@ -1,0 +1,16 @@
+ body{background-color:black ;color:#8C8C8C}
+.Gray{background-color:#F3F3F3;margin-top: 200px;}
+.white{background-color:white;margin: 25px;}
+.img{margin-left: -12px;}
+.details-title{margin-top: 28px;}
+.details-title,.details-title2{font-family: 'Roboto', sans-serif; font-size:20px;color:black;}
+.clock{margin-top:22px;font-family: 'Lato', sans-serif;}
+.fa{width:18px}
+.calendar{margin-top:8px;margin-bottom:27px;}
+.fa-clock-o,.fa-calendar{color:#4692E7;}
+.third-block{border-left:2px solid #F3F3F3;text-align:center;}
+.from{margin-top:31px;font-size:16px;}
+.price{font-family: 'Roboto', sans-serif; font-size:26px;color:black;}
+.stars{margin-top:19px;color:gold;}
+.review{font-size:11px; color:#8C8C8C;margin-bottom:26px}
+.btn1{ border: 1px solid #4692E7 ;background-color:#4692E7 ;font-family:'Roboto', sans-serif;color:white;padding:9px;margin-left: 24px;margin-right: 24px;font-size: 12px;}
